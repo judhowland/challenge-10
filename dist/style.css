@@ -1,11 +1,11 @@
 .team-heading {
-    background-color: #E84855;
+    background-color: #2b3335;
     color: #ffffff;
 }
 
 .team-area {
     max-width: 1000px;
-    margin: 3em auto;
+    margin: 4em auto;
     flex-wrap: wrap;
 }
 
@@ -14,12 +14,12 @@
     max-width: 280px;
     width: 90%;
     min-height: 22rem;
-    background-color: #007bff;
+    background-color: #234870;
     color: white;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    box-shadow: 4px 4px 8px rgba(0,0,0,0.7);
+    box-shadow: 4px 4px 8px rgba(1, 37, 78, 0.7);
     border: none;
 }
 
@@ -27,7 +27,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #F6F7F8;
+    background-color: #2b3335;
 }
 
 .list-group-item {
